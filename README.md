@@ -1,2 +1,2 @@
 # test1
-test repo 1
+test repository for first tgrial tutorial
